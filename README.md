@@ -1,6 +1,5 @@
 <h1 align="center"> Hi! I'm xVice1337! </h1>
 <h2 align="center"> - 📫 How to reach me: `_jupe_` on discord </h2>
-<pre>i used to be github.com/xVice but i lost my 2fa device :c</pre>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
